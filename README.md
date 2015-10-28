@@ -1,1 +1,2 @@
-# AUVamogh
+AUV amogh 2016 Image Processing codes and assignments...
+ 
